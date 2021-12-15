@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facil">Easy</string>
+    <string name="jugar">Play now</string>
+    <string name="salir">Exit game</string>
+    <string name="medio">Medium</string>
+    <string name="dificil">Hard</string>
+    <string name="movimientos">Movements</string>
+    <string name="queresSalir">Are you sure?</string>
+    <string name="aceptar">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="ganador">Winner</string>
+    <string name="entrelosmejores">Your score is among the 15 best. Enter your name for the hiscores.</string>
+    <string name="volverajugar">Play again</string>
+    <string name="nuevotablero">Select level</string>
+    <string name="volver">Go back?</string>
+    <string name="dondecompartir">Select app to share rankings</string>
+    <string name="notenesrankings">You have no rankings to be shared</string>
+    <string name="mimejorscorees">My best score on Cuadro Cromatico is</string>
+    <string name="endificultad">playing</string>
+    <string name="level">Level</string>
+    <string name="usuario">Username</string>
+</resources>

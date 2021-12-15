@@ -1,0 +1,24 @@
+<resources>
+    <string name="facil">Fácil</string>
+    <string name="jugar">Jugar</string>
+    <string name="salir">Salir</string>
+    <string name="medio">Medio</string>
+    <string name="dificil">Difícil</string>
+    <string name="movimientos">Moviemientos</string>
+    <string name="queresSalir">¿Seguro querés salir?</string>
+    <string name="aceptar">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ganador">Ganador</string>
+    <string name="entrelosmejores">La cantidad de movimientos se encuentra entre los 15 mejores. Ingresá tu nombre para figurar en el ranking.</string>
+    <string name="volverajugar">Volver a jugar</string>
+    <string name="nuevotablero">Elegir nuevo tablero</string>
+    <string name="volver">¿Deseas volver al menú inicial?</string>
+    <string name="dondecompartir">¿Dónde querés compartir tus rankings?</string>
+    <string name="notenesrankings">No tenés rankings para compartir</string>
+    <string name="mimejorscorees">Mi mejor score en Cuadro Cromático es</string>
+    <string name="endificultad">en dificultad</string>
+    <string name="level">Nivel</string>
+    <string name="app_name" translatable="false">Cuadro Cromatico</string>
+    <string name="usuario">Usuario</string>
+    <!--    PARA TRADUCIR LA APP-->
+</resources>

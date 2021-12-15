@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="seminario.Inicio"
+    android:stretchColumns="*" >
+
+    <TableLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="-1dp"
+        android:gravity="center">
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown" />
+
+        <Button
+            android:id="@+id/vamosbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:enabled="false"
+            android:onClick="vamos"
+            android:text="@string/jugar" />
+
+        <Button
+            android:layout_span="2"
+            android:background="#FFFFFF"
+            android:onClick="rank"
+            android:text="Ranking" />
+
+        <Button
+            android:layout_span="2"
+            android:background="#FFFFFF"
+            android:onClick="exit"
+            android:text="@string/salir" />
+
+
+    </TableLayout>
+
+    <RelativeLayout
+        android:layout_width="440dp"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/inicio2" />
+    </RelativeLayout>
+
+
+</RelativeLayout>
